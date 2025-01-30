@@ -1,5 +1,5 @@
 # PHP Testing Environment
-**php version 7.2-fpm**
+**php version 8.1.7-fpm**
 
 <br>
 
